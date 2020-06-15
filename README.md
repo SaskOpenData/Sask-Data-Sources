@@ -11,3 +11,4 @@ A collection of open data from Saskatchewan, Canada.
 
 - Tabular data
   - Regina transit
+  - Crown land sales (Source: https://trevorherriot.blogspot.com/2017/10/colonial-mindset-prevails-on-prairie.html)
